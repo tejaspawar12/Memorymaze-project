@@ -1,0 +1,12 @@
+fastapi
+mangum
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+gradio 
+httpx
+qdrant-client
+boto3
+sentence-transormers
+neo4j
